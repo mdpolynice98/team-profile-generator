@@ -1,0 +1,20 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "team-profile-generator"
+  },
+  "author": "Markendrick Polynice",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "nodemon": "^2.0.20"
+  }
+}
