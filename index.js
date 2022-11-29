@@ -2,7 +2,6 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 //require the worker info
-const info = require('./lib/workerinfo')
 const team = [];
 const Intern = require('./lib/ntern');
 const Engineer = require('./lib/Engineer.js');
